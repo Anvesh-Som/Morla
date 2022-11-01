@@ -1,5 +1,7 @@
 # Morla
-(All further work is being done in private repository, which will be made public as soon as project reaches a respectable milestone)
+(All further work is being done in private repository, which will be made public as soon as project reaches completion milestone)
+
+## NOTE: Reach out on email anvesh.s.som@gmail.com for access to private repository.
 
 ## Inspiration
 Morla is an autonomous differential drive robot inspired from the popular robotics platform, turtlebot. While turtlebot being a fairly robust robotic platform, not everyone can afford it, hence morla is designed to be a plug, play & tweak platform to run most of the popular algorithms related to robot control, perception and navigation, while being cheaper than it's original inspiration.
